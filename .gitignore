@@ -1,0 +1,4 @@
+*.pyc
+test1_container/.idea/
+test1_venv/
+
